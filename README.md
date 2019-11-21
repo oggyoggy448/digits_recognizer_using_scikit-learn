@@ -1,1 +1,1 @@
-# digits_recognizer_using_scikit-learn
+# digits recognizer using scikit-learn
